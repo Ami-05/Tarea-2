@@ -10,7 +10,7 @@ int main() {
     
     printf("Introduce el segundo numero: ");
     printf("numero 2\n");
-    scanf ("%u", &a);
+    scanf ("%u", &b);
     
 
     sum = a + b;
