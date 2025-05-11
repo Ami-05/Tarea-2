@@ -1,5 +1,5 @@
 //Cruz Apodaca Amiel Merari
-//El siguiente programa leera los primeros 100 numeros naturales y contara cuentos de ellos son positivos, negativos o nulos.
+//El siguiente programa leera los primeros 100 numeros naturales y contara cuantos de ellos son positivos, negativos o nulos.
 
 #include <stdio.h>
 
