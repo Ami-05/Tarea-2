@@ -1,5 +1,5 @@
 //Cruz Apodaca Amiel Merari
-//El siguiente programa dada una cantidada expresada en dolares, convierte esa cantidad en pesos, tomando en cuenta que el 1 dolar = 11.96 pesos
+//El siguiente programa dada una cantidad expresada en dolares, convierte esa cantidad en pesos, tomando en cuenta que el 1 dolar = 11.96 pesos
 
 #include <stdio.h>
 
