@@ -1,5 +1,5 @@
 //Cruz Apodaca Amiel Merari
-//El siguiente programa a partir de pedir al usario el monto de inversion asi como la tasa de interes mensual, calculara el monto de dinero que obtendra a fin de mes
+//El siguiente programa a partir de pedir al uusario el monto de inversion asi como la tasa de interes mensual, calculara el monto de dinero que obtendra a fin de mes
 
 #include <stdio.h>
 
