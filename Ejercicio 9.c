@@ -1,5 +1,5 @@
 //Cruz Apodaca Amiel Merari
-//El sguiente programa obtiene la tabla de multiplcar de un numero entero N, comenzando desde el 1 concluyendo en el 10
+//El siguiente programa obtiene la tabla de multiplicar de un numero entero N, comenzando desde el 1 concluyendo en el 10
 
 #include <stdio.h>
 
