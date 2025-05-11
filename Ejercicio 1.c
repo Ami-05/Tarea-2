@@ -1,5 +1,6 @@
 //Cruz Apodaca Amiel Merari, en este codigo tras pedir al usuario dos numeros calculara la suma, resta y multiplicacion de dichos numeros//
 
+#include <stdio.h>
 int main() {
     int a, b, sum, rest, multi;
     
