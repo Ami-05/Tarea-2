@@ -7,7 +7,7 @@ int main()
 {
     int N;
     
-    printf("Ingrese el numero entero del cual se obtendra la tabal de multiplicar:");
+    printf("Ingrese el numero entero del cual se obtendra la tabla de multiplicar: ");
     scanf("%d", &N);
     
     for (int i=1; i <= 10; i++)
