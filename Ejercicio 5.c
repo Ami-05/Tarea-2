@@ -1,6 +1,6 @@
 //Cruz Apodaca Amiel Mearari
 //El siguiente programa con base en saber que un negocio aplica un descuento de 8% a todos los clientes cuya compra es superior a $2500.
-//Y a partir de pedir al usario el monto del cliente, calculara lo que el cliente debe pagar
+//Y a partir de pedir al usuario el monto del cliente, calculara lo que el cliente debe pagar
 
 #include <stdio.h>
 
