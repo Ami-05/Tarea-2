@@ -21,7 +21,7 @@ int main()
     printf("Los primeros 100 numeros pares son:\n");
     for (int i=0; i<100; i++)
     {
-        printf("%d ", arreglo[i]);
+        printf("%d\n", arreglo[i]);
     }
    
     return 0;
