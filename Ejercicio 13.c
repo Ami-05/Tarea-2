@@ -2,7 +2,6 @@
 //El siguiente programa tras pedir al usuario el numero de elementos del arreglo, obtiene como resultado la suma de los mismos
 
 #include <stdio.h>
-
 int main()
 {
     int n, i, sum=0;
