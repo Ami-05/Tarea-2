@@ -9,7 +9,7 @@ int main()
     setlocale(LC_NUMERIC, "");
     int n, i, mul, producto=1;
     
-    printf("Ingrese un número del cual se obtendra la multiplicación de todos los números antesesores a este: ");
+    printf("Ingrese un número del cual se obtendra el producto de todos los números antesesores a este: ");
     scanf("%d",&n);
     
     if(n<1)
